@@ -1,0 +1,25 @@
+{
+  "name": "wcaffeinate",
+  "version": "1.0.0",
+  "description": "caffeinate osx with ddns",
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "main": "src/index.js",
+  "repository": "git@github.com:willin/wcaffeinate.git",
+  "author": "willin <willin@willin.org>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-router": "^7.1.1",
+    "request": "^2.81.0",
+    "wqcloud": "^3.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^5.0.1",
+    "eslint-plugin-react": "^7.0.0"
+  }
+}
