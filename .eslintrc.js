@@ -11,7 +11,7 @@ module.exports = {
     'max-len': [1, 150, 2],
     'arrow-body-style': [1, 'as-needed'],
     'comma-dangle': [2, 'never'],
-    'object-curly-spacing': 0,
+    'object-curly-spacing': 2,
     'no-console': 1,
     'no-confusing-arrow': 0,
     'no-param-reassign': [1, { props: false }],
